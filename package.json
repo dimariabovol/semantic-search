@@ -1,0 +1,15 @@
+{
+  "name": "semantic-search",
+  "version": "1.0.0",
+  "description": "Pet-project with semantic search by OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env search.js"
+  },
+  "author": "Dmytro Riabovol",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.0.14",
+    "langchain": "^0.1.21"
+  }
+}

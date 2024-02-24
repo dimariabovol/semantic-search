@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Ultra HD 4K TV",
+        "description": "Experience stunning 4K clarity and vivid colors.",
+        "price": 799.99,
+        "image": "https://example.com/ultra-hd-4k-tv.jpg"
+    },
+    {
+        "title": "Bluetooth Wireless Headphones",
+        "description": "Noise-cancelling headphones with 20 hours battery life.",
+        "price": 199.99,
+        "image": "https://example.com/bluetooth-headphones.jpg"
+    },
+    {
+        "title": "Smart Watch",
+        "description": "Keep track of your fitness and notifications on the go.",
+        "price": 249.99,
+        "image": "https://example.com/smart-watch.jpg"
+    },
+    {
+        "title": "Gaming Laptop",
+        "description": "High-performance laptop for gaming and productivity.",
+        "price": 1200.99,
+        "image": "https://example.com/gaming-laptop.jpg"
+    },
+    {
+        "title": "Portable Speaker",
+        "description": "Waterproof portable speaker with Bluetooth connectivity.",
+        "price": 99.99,
+        "image": "https://example.com/portable-speaker.jpg"
+    },
+    {
+        "title": "E-Reader",
+        "description": "Lightweight e-reader with a paper-like display.",
+        "price": 129.99,
+        "image": "https://example.com/e-reader.jpg"
+    },
+    {
+        "title": "Action Camera",
+        "description": "Compact and durable camera for all your adventures.",
+        "price": 299.99,
+        "image": "https://example.com/action-camera.jpg"
+    },
+    {
+        "title": "Drone with Camera",
+        "description": "Capture stunning aerial footage with ease.",
+        "price": 499.99,
+        "image": "https://example.com/drone-camera.jpg"
+    },
+    {
+        "title": "Wireless Charging Pad",
+        "description": "Sleek charging pad for all your wireless charging devices.",
+        "price": 59.99,
+        "image": "https://example.com/wireless-charging-pad.jpg"
+    },
+    {
+        "title": "Smart Thermostat",
+        "description": "Control your home's temperature from anywhere.",
+        "price": 249.99,
+        "image": "https://example.com/smart-thermostat.jpg"
+    },
+    {
+        "title": "Ultra HD 4K TV Model 11",
+        "description": "Experience stunning 4K clarity and vivid colors.",
+        "price": 849.99,
+        "image": "https://example.com/ultra-hd-4k-tv.jpg"
+    },
+    {
+        "title": "Bluetooth Wireless Headphones Model 12",
+        "description": "Noise-cancelling headphones with 20 hours battery life.",
+        "price": 254.99,
+        "image": "https://example.com/bluetooth-headphones.jpg"
+    },
+    {
+        "title": "Smart Watch Model 13",
+        "description": "Keep track of your fitness and notifications on the go.",
+        "price": 309.99,
+        "image": "https://example.com/smart-watch.jpg"
+    },
+    {
+        "title": "Gaming Laptop Model 14",
+        "description": "High-performance laptop for gaming and productivity.",
+        "price": 1265.99,
+        "image": "https://example.com/gaming-laptop.jpg"
+    },
+    {
+        "title": "Portable Speaker Model 15",
+        "description": "Waterproof portable speaker with Bluetooth connectivity.",
+        "price": 169.99,
+        "image": "https://example.com/portable-speaker.jpg"
+    },
+    {
+        "title": "E-Reader Model 16",
+        "description": "Lightweight e-reader with a paper-like display.",
+        "price": 204.99,
+        "image": "https://example.com/e-reader.jpg"
+    },
+    {
+        "title": "Action Camera Model 17",
+        "description": "Compact and durable camera for all your adventures.",
+        "price": 379.99,
+        "image": "https://example.com/action-camera.jpg"
+    },
+    {
+        "title": "Drone with Camera Model 18",
+        "description": "Capture stunning aerial footage with ease.",
+        "price": 584.99,
+        "image": "https://example.com/drone-camera.jpg"
+    },
+    {
+        "title": "Wireless Charging Pad Model 19",
+        "description": "Sleek charging pad for all your wireless charging devices.",
+        "price": 149.99,
+        "image": "https://example.com/wireless-charging-pad.jpg"
+    },
+    {
+        "title": "Smart Thermostat Model 20",
+        "description": "Control your home's temperature from anywhere.",
+        "price": 344.99,
+        "image": "https://example.com/smart-thermostat.jpg"
+    },
+    {
+        "title": "Ultra HD 4K TV Model 21",
+        "description": "Experience stunning 4K clarity and vivid colors.",
+        "price": 899.99,
+        "image": "https://example.com/ultra-hd-4k-tv.jpg"
+    },
+    {
+        "title": "Bluetooth Wireless Headphones Model 22",
+        "description": "Noise-cancelling headphones with 20 hours battery life.",
+        "price": 304.99,
+        "image": "https://example.com/bluetooth-headphones.jpg"
+    },
+    {
+        "title": "Smart Watch Model 23",
+        "description": "Keep track of your fitness and notifications on the go.",
+        "price": 359.99,
+        "image": "https://example.com/smart-watch.jpg"
+    },
+    {
+        "title": "Gaming Laptop Model 24",
+        "description": "High-performance laptop for gaming and productivity.",
+        "price": 1315.99,
+        "image": "https://example.com/gaming-laptop.jpg"
+    },
+    {
+        "title": "Portable Speaker Model 25",
+        "description": "Waterproof portable speaker with Bluetooth connectivity.",
+        "price": 219.99,
+        "image": "https://example.com/portable-speaker.jpg"
+    },
+    {
+        "title": "E-Reader Model 26",
+        "description": "Lightweight e-reader with a paper-like display.",
+        "price": 254.99,
+        "image": "https://example.com/e-reader.jpg"
+    },
+    {
+        "title": "Action Camera Model 27",
+        "description": "Compact and durable camera for all your adventures.",
+        "price": 429.99,
+        "image": "https://example.com/action-camera.jpg"
+    },
+    {
+        "title": "Drone with Camera Model 28",
+        "description": "Capture stunning aerial footage with ease.",
+        "price": 634.99,
+        "image": "https://example.com/drone-camera.jpg"
+    },
+    {
+        "title": "Wireless Charging Pad Model 29",
+        "description": "Sleek charging pad for all your wireless charging devices.",
+        "price": 199.99,
+        "image": "https://example.com/wireless-charging-pad.jpg"
+    },
+    {
+        "title": "Smart Thermostat Model 30",
+        "description": "Control your home's temperature from anywhere.",
+        "price": 394.99,
+        "image": "https://example.com/smart-thermostat.jpg"
+    },
+    {
+        "title": "Ultra HD 4K TV Model 31",
+        "description": "Experience stunning 4K clarity and vivid colors.",
+        "price": 949.99,
+        "image": "https://example.com/ultra-hd-4k-tv.jpg"
+    },
+    {
+        "title": "Bluetooth Wireless Headphones Model 32",
+        "description": "Noise-cancelling headphones with 20 hours battery life.",
+        "price": 354.99,
+        "image": "https://example.com/bluetooth-headphones.jpg"
+    },
+    {
+        "title": "Smart Watch Model 33",
+        "description": "Keep track of your fitness and notifications on the go.",
+        "price": 409.99,
+        "image": "https://example.com/smart-watch.jpg"
+    },
+    {
+        "title": "Gaming Laptop Model 34",
+        "description": "High-performance laptop for gaming and productivity.",
+        "price": 1365.99,
+        "image": "https://example.com/gaming-laptop.jpg"
+    },
+    {
+        "title": "Portable Speaker Model 35",
+        "description": "Waterproof portable speaker with Bluetooth connectivity.",
+        "price": 269.99,
+        "image": "https://example.com/portable-speaker.jpg"
+    },
+    {
+        "title": "E-Reader Model 36",
+        "description": "Lightweight e-reader with a paper-like display.",
+        "price": 304.99,
+        "image": "https://example.com/e-reader.jpg"
+    },
+    {
+        "title": "Action Camera Model 37",
+        "description": "Compact and durable camera for all your adventures.",
+        "price": 479.99,
+        "image": "https://example.com/action-camera.jpg"
+    },
+    {
+        "title": "Drone with Camera Model 38",
+        "description": "Capture stunning aerial footage with ease.",
+        "price": 684.99,
+        "image": "https://example.com/drone-camera.jpg"
+    },
+    {
+        "title": "Wireless Charging Pad Model 39",
+        "description": "Sleek charging pad for all your wireless charging devices.",
+        "price": 249.99,
+        "image": "https://example.com/wireless-charging-pad.jpg"
+    },
+    {
+        "title": "Smart Thermostat Model 40",
+        "description": "Control your home's temperature from anywhere.",
+        "price": 444.99,
+        "image": "https://example.com/smart-thermostat.jpg"
+    }
+]
