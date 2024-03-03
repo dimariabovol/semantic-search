@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Pet-project with semantic search by OpenAI",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node --env-file=.env search.js"
   },
